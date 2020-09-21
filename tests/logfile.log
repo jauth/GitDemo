@@ -1,0 +1,307 @@
+2020-09-20 22:36:51,170 :INFO : test_e2e :Getting all products
+2020-09-20 22:36:51,187 :INFO : test_e2e :iphone X
+2020-09-20 22:36:51,196 :INFO : test_e2e :Samsung Note 8
+2020-09-20 22:36:51,205 :INFO : test_e2e :Nokia Edge
+2020-09-20 22:36:51,214 :INFO : test_e2e :Blackberry
+2020-09-20 22:36:51,372 :INFO : test_e2e :Entering country name as unit
+2020-09-20 22:36:56,618 :INFO : test_e2e :Text received from the application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-20 22:36:56,618 :INFO : test_e2e :Text matched
+2020-09-20 22:49:34,293 :INFO : test_e2e :Getting all products
+2020-09-20 22:49:34,309 :INFO : test_e2e :iphone X
+2020-09-20 22:49:34,319 :INFO : test_e2e :Samsung Note 8
+2020-09-20 22:49:34,328 :INFO : test_e2e :Nokia Edge
+2020-09-20 22:49:34,337 :INFO : test_e2e :Blackberry
+2020-09-20 22:49:34,489 :INFO : test_e2e :Entering country name as unit
+2020-09-20 22:49:39,719 :INFO : test_e2e :Text received from the application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-20 22:50:50,762 :INFO : test_form_submission :Name is: Jason Auth
+2020-09-20 22:50:50,815 :INFO : test_form_submission :Email is:jason.auth@gmail.com
+2020-09-20 22:50:50,867 :INFO : test_form_submission :Password is: Password1
+2020-09-20 22:50:50,938 :INFO : test_form_submission :Gender is: Male
+2020-09-20 22:50:51,330 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 22:50:51,330 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 22:50:51,380 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 22:50:51,380 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 22:50:51,424 :INFO : test_form_submission :Password is: Password2
+2020-09-20 22:50:51,424 :INFO : test_form_submission :Password is: Password2
+2020-09-20 22:50:51,489 :INFO : test_form_submission :Gender is: Female
+2020-09-20 22:50:51,489 :INFO : test_form_submission :Gender is: Female
+2020-09-20 22:50:51,872 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 22:50:51,872 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 22:50:51,872 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 22:50:51,914 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 22:50:51,914 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 22:50:51,914 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 22:50:51,957 :INFO : test_form_submission :Password is: Password3
+2020-09-20 22:50:51,957 :INFO : test_form_submission :Password is: Password3
+2020-09-20 22:50:51,957 :INFO : test_form_submission :Password is: Password3
+2020-09-20 22:50:52,022 :INFO : test_form_submission :Gender is: Male
+2020-09-20 22:50:52,022 :INFO : test_form_submission :Gender is: Male
+2020-09-20 22:50:52,022 :INFO : test_form_submission :Gender is: Male
+2020-09-20 22:51:00,579 :INFO : test_e2e :Getting all products
+2020-09-20 22:51:00,596 :INFO : test_e2e :iphone X
+2020-09-20 22:51:00,604 :INFO : test_e2e :Samsung Note 8
+2020-09-20 22:51:00,613 :INFO : test_e2e :Nokia Edge
+2020-09-20 22:51:00,621 :INFO : test_e2e :Blackberry
+2020-09-20 22:51:00,770 :INFO : test_e2e :Entering country name as unit
+2020-09-20 22:51:06,014 :INFO : test_e2e :Text received from the application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-20 23:09:34,788 :INFO : test_form_submission :Name is: Jason Auth
+2020-09-20 23:09:34,840 :INFO : test_form_submission :Email is:jason.auth@gmail.com
+2020-09-20 23:09:34,889 :INFO : test_form_submission :Password is: Password1
+2020-09-20 23:09:34,960 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:09:35,361 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 23:09:35,361 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 23:09:35,412 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 23:09:35,412 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 23:09:35,458 :INFO : test_form_submission :Password is: Password2
+2020-09-20 23:09:35,458 :INFO : test_form_submission :Password is: Password2
+2020-09-20 23:09:35,525 :INFO : test_form_submission :Gender is: Female
+2020-09-20 23:09:35,525 :INFO : test_form_submission :Gender is: Female
+2020-09-20 23:09:35,899 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:09:35,899 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:09:35,899 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:09:35,941 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:09:35,941 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:09:35,941 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:09:35,983 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:09:35,983 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:09:35,983 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:09:36,051 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:09:36,051 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:09:36,051 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:09:44,997 :INFO : test_e2e :Getting all products
+2020-09-20 23:09:45,013 :INFO : test_e2e :iphone X
+2020-09-20 23:09:45,022 :INFO : test_e2e :Samsung Note 8
+2020-09-20 23:09:45,030 :INFO : test_e2e :Nokia Edge
+2020-09-20 23:09:45,038 :INFO : test_e2e :Blackberry
+2020-09-20 23:09:45,186 :INFO : test_e2e :Entering country name as unit
+2020-09-20 23:09:50,433 :INFO : test_e2e :Text received from the application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-20 23:09:50,433 :INFO : test_e2e :Text matched
+2020-09-20 23:14:57,190 :INFO : test_form_submission :Name is: Jason Auth
+2020-09-20 23:14:57,240 :INFO : test_form_submission :Email is:jason.auth@gmail.com
+2020-09-20 23:14:57,288 :INFO : test_form_submission :Password is: Password1
+2020-09-20 23:14:57,359 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:14:57,753 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 23:14:57,753 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 23:14:57,801 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 23:14:57,801 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 23:14:57,846 :INFO : test_form_submission :Password is: Password2
+2020-09-20 23:14:57,846 :INFO : test_form_submission :Password is: Password2
+2020-09-20 23:14:57,912 :INFO : test_form_submission :Gender is: Female
+2020-09-20 23:14:57,912 :INFO : test_form_submission :Gender is: Female
+2020-09-20 23:14:58,295 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:14:58,295 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:14:58,295 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:14:58,341 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:14:58,341 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:14:58,341 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:14:58,385 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:14:58,385 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:14:58,385 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:14:58,449 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:14:58,449 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:14:58,449 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:16:27,843 :INFO : test_form_submission :Name is: Jason Auth
+2020-09-20 23:16:27,869 :INFO : test_form_submission :Email is:jason.auth@gmail.com
+2020-09-20 23:16:27,892 :INFO : test_form_submission :Password is: Password1
+2020-09-20 23:16:28,116 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:16:30,787 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 23:16:30,787 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 23:16:30,816 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 23:16:30,816 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 23:16:30,838 :INFO : test_form_submission :Password is: Password2
+2020-09-20 23:16:30,838 :INFO : test_form_submission :Password is: Password2
+2020-09-20 23:16:31,058 :INFO : test_form_submission :Gender is: Female
+2020-09-20 23:16:31,058 :INFO : test_form_submission :Gender is: Female
+2020-09-20 23:16:33,955 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:16:33,955 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:16:33,955 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:16:33,983 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:16:33,983 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:16:33,983 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:16:34,006 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:16:34,006 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:16:34,006 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:16:34,230 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:16:34,230 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:16:34,230 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:16:46,325 :INFO : test_e2e :Getting all products
+2020-09-20 23:16:46,342 :INFO : test_e2e :iphone X
+2020-09-20 23:16:46,347 :INFO : test_e2e :Samsung Note 8
+2020-09-20 23:16:46,352 :INFO : test_e2e :Nokia Edge
+2020-09-20 23:16:46,356 :INFO : test_e2e :Blackberry
+2020-09-20 23:16:47,024 :INFO : test_e2e :Entering country name as unit
+2020-09-20 23:16:52,809 :INFO : test_e2e :Text received from the application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-20 23:16:52,809 :INFO : test_e2e :Text matched
+2020-09-20 23:24:51,005 :INFO : test_form_submission :Name is: Jason Auth
+2020-09-20 23:24:51,057 :INFO : test_form_submission :Email is:jason.auth@gmail.com
+2020-09-20 23:24:51,105 :INFO : test_form_submission :Password is: Password1
+2020-09-20 23:24:51,177 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:24:51,585 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 23:24:51,585 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 23:24:51,638 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 23:24:51,638 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 23:24:51,686 :INFO : test_form_submission :Password is: Password2
+2020-09-20 23:24:51,686 :INFO : test_form_submission :Password is: Password2
+2020-09-20 23:24:51,755 :INFO : test_form_submission :Gender is: Female
+2020-09-20 23:24:51,755 :INFO : test_form_submission :Gender is: Female
+2020-09-20 23:24:52,134 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:24:52,134 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:24:52,134 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:24:52,178 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:24:52,178 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:24:52,178 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:24:52,222 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:24:52,222 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:24:52,222 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:24:52,287 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:24:52,287 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:24:52,287 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:25:01,054 :INFO : test_e2e :Getting all products
+2020-09-20 23:25:01,072 :INFO : test_e2e :iphone X
+2020-09-20 23:25:01,080 :INFO : test_e2e :Samsung Note 8
+2020-09-20 23:25:01,089 :INFO : test_e2e :Nokia Edge
+2020-09-20 23:25:01,099 :INFO : test_e2e :Blackberry
+2020-09-20 23:25:01,258 :INFO : test_e2e :Entering country name as unit
+2020-09-20 23:25:06,504 :INFO : test_e2e :Text received from the application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-20 23:25:06,504 :INFO : test_e2e :Text matched
+2020-09-20 23:30:20,234 :INFO : test_form_submission :Name is: Jason Auth
+2020-09-20 23:30:20,289 :INFO : test_form_submission :Email is:jason.auth@gmail.com
+2020-09-20 23:30:20,338 :INFO : test_form_submission :Password is: Password1
+2020-09-20 23:30:20,406 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:30:20,803 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 23:30:20,803 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 23:30:20,854 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 23:30:20,854 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 23:30:20,899 :INFO : test_form_submission :Password is: Password2
+2020-09-20 23:30:20,899 :INFO : test_form_submission :Password is: Password2
+2020-09-20 23:30:20,966 :INFO : test_form_submission :Gender is: Female
+2020-09-20 23:30:20,966 :INFO : test_form_submission :Gender is: Female
+2020-09-20 23:30:21,348 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:30:21,348 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:30:21,348 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:30:21,394 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:30:21,394 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:30:21,394 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:30:21,437 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:30:21,437 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:30:21,437 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:30:21,503 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:30:21,503 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:30:21,503 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:30:30,825 :INFO : test_e2e :Getting all products
+2020-09-20 23:30:30,842 :INFO : test_e2e :iphone X
+2020-09-20 23:30:30,851 :INFO : test_e2e :Samsung Note 8
+2020-09-20 23:30:30,860 :INFO : test_e2e :Nokia Edge
+2020-09-20 23:30:30,868 :INFO : test_e2e :Blackberry
+2020-09-20 23:30:31,023 :INFO : test_e2e :Entering country name as unit
+2020-09-20 23:30:36,248 :INFO : test_e2e :Text received from the application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-20 23:30:36,248 :INFO : test_e2e :Text matched
+2020-09-20 23:32:14,972 :INFO : test_form_submission :Name is: Jason Auth
+2020-09-20 23:32:15,026 :INFO : test_form_submission :Email is:jason.auth@gmail.com
+2020-09-20 23:32:15,076 :INFO : test_form_submission :Password is: Password1
+2020-09-20 23:32:15,147 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:32:15,270 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 23:32:15,270 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-20 23:32:15,605 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 23:32:15,605 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-20 23:32:15,654 :INFO : test_form_submission :Password is: Password2
+2020-09-20 23:32:15,654 :INFO : test_form_submission :Password is: Password2
+2020-09-20 23:32:15,721 :INFO : test_form_submission :Gender is: Female
+2020-09-20 23:32:15,721 :INFO : test_form_submission :Gender is: Female
+2020-09-20 23:32:16,112 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:32:16,112 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:32:16,112 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-20 23:32:16,161 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:32:16,161 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:32:16,161 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-20 23:32:16,215 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:32:16,215 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:32:16,215 :INFO : test_form_submission :Password is: Password3
+2020-09-20 23:32:16,287 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:32:16,287 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:32:16,287 :INFO : test_form_submission :Gender is: Male
+2020-09-20 23:32:25,238 :INFO : test_e2e :Getting all products
+2020-09-20 23:32:25,254 :INFO : test_e2e :iphone X
+2020-09-20 23:32:25,263 :INFO : test_e2e :Samsung Note 8
+2020-09-20 23:32:25,272 :INFO : test_e2e :Nokia Edge
+2020-09-20 23:32:25,281 :INFO : test_e2e :Blackberry
+2020-09-20 23:32:25,435 :INFO : test_e2e :Entering country name as unit
+2020-09-20 23:32:30,679 :INFO : test_e2e :Text received from the application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-21 09:52:57,772 :INFO : test_form_submission :Name is: Jason Auth
+2020-09-21 09:52:57,824 :INFO : test_form_submission :Email is:jason.auth@gmail.com
+2020-09-21 09:52:57,872 :INFO : test_form_submission :Password is: Password1
+2020-09-21 09:52:57,946 :INFO : test_form_submission :Gender is: Male
+2020-09-21 09:52:58,339 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-21 09:52:58,339 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-21 09:52:58,386 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-21 09:52:58,386 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-21 09:52:58,430 :INFO : test_form_submission :Password is: Password2
+2020-09-21 09:52:58,430 :INFO : test_form_submission :Password is: Password2
+2020-09-21 09:52:58,498 :INFO : test_form_submission :Gender is: Female
+2020-09-21 09:52:58,498 :INFO : test_form_submission :Gender is: Female
+2020-09-21 09:52:58,618 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-21 09:52:58,618 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-21 09:52:58,618 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-21 09:52:58,924 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-21 09:52:58,924 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-21 09:52:58,924 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-21 09:52:58,967 :INFO : test_form_submission :Password is: Password3
+2020-09-21 09:52:58,967 :INFO : test_form_submission :Password is: Password3
+2020-09-21 09:52:58,967 :INFO : test_form_submission :Password is: Password3
+2020-09-21 09:52:59,032 :INFO : test_form_submission :Gender is: Male
+2020-09-21 09:52:59,032 :INFO : test_form_submission :Gender is: Male
+2020-09-21 09:52:59,032 :INFO : test_form_submission :Gender is: Male
+2020-09-21 09:53:07,919 :INFO : test_e2e :Getting all products
+2020-09-21 09:53:07,936 :INFO : test_e2e :iphone X
+2020-09-21 09:53:07,945 :INFO : test_e2e :Samsung Note 8
+2020-09-21 09:53:07,953 :INFO : test_e2e :Nokia Edge
+2020-09-21 09:53:07,961 :INFO : test_e2e :Blackberry
+2020-09-21 09:53:08,114 :INFO : test_e2e :Entering country name as unit
+2020-09-21 09:53:13,346 :INFO : test_e2e :Text received from the application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-21 09:53:13,346 :INFO : test_e2e :Text matched
+2020-09-21 09:53:54,625 :INFO : test_form_submission :Name is: Jason Auth
+2020-09-21 09:53:54,649 :INFO : test_form_submission :Email is:jason.auth@gmail.com
+2020-09-21 09:53:54,676 :INFO : test_form_submission :Password is: Password1
+2020-09-21 09:53:54,901 :INFO : test_form_submission :Gender is: Male
+2020-09-21 09:53:57,585 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-21 09:53:57,585 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-21 09:53:57,616 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-21 09:53:57,616 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-21 09:53:57,640 :INFO : test_form_submission :Password is: Password2
+2020-09-21 09:53:57,640 :INFO : test_form_submission :Password is: Password2
+2020-09-21 09:53:57,863 :INFO : test_form_submission :Gender is: Female
+2020-09-21 09:53:57,863 :INFO : test_form_submission :Gender is: Female
+2020-09-21 09:54:00,733 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-21 09:54:00,733 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-21 09:54:00,733 :INFO : test_form_submission :Name is: Troy Auth
+2020-09-21 09:54:00,760 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-21 09:54:00,760 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-21 09:54:00,760 :INFO : test_form_submission :Email is:troydauth@gmail.com
+2020-09-21 09:54:00,785 :INFO : test_form_submission :Password is: Password3
+2020-09-21 09:54:00,785 :INFO : test_form_submission :Password is: Password3
+2020-09-21 09:54:00,785 :INFO : test_form_submission :Password is: Password3
+2020-09-21 09:54:01,008 :INFO : test_form_submission :Gender is: Male
+2020-09-21 09:54:01,008 :INFO : test_form_submission :Gender is: Male
+2020-09-21 09:54:01,008 :INFO : test_form_submission :Gender is: Male
+2020-09-21 09:54:13,218 :INFO : test_e2e :Getting all products
+2020-09-21 09:54:13,232 :INFO : test_e2e :iphone X
+2020-09-21 09:54:13,237 :INFO : test_e2e :Samsung Note 8
+2020-09-21 09:54:13,241 :INFO : test_e2e :Nokia Edge
+2020-09-21 09:54:13,247 :INFO : test_e2e :Blackberry
+2020-09-21 09:54:13,914 :INFO : test_e2e :Entering country name as unit
+2020-09-21 09:54:19,712 :INFO : test_e2e :Text received from the application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-21 09:54:19,712 :INFO : test_e2e :Text matched
+2020-09-21 15:18:42,444 :INFO : test_form_submission :Name is: Katherine Phillips
+2020-09-21 15:18:42,504 :INFO : test_form_submission :Email is:katiekat301@gmail.com
+2020-09-21 15:18:42,554 :INFO : test_form_submission :Password is: Password2
+2020-09-21 15:18:42,629 :INFO : test_form_submission :Gender is: Female
