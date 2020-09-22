@@ -31,3 +31,6 @@ import openpyxl
 #             # datadict["column header"] = cell value
 #             datadict[sheet.cell(row=1, column=j).value] = sheet.cell(row=i, column=j).value
 #             print([datadict])
+
+
+test_data = "blue"
